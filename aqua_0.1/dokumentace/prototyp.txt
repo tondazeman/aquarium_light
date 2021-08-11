@@ -1,0 +1,5 @@
+Udelani jednotlivych casti prototypu:
+1, Rasp + shift register
+2, Voltage reference
+3, 555 oscilator
+4, power LED stupeň 
