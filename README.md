@@ -1,2 +1,2 @@
 # aquarium_light
-sww water aquarium lighting system
+see water aquarium lighting system
